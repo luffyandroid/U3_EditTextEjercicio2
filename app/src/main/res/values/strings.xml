@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">U3_EditTextEjercicio2</string>
+    <string name="ano">Año</string>
+    <string name="mes">Mes</string>
+    <string name="dia">Dia</string>
+    <string name="datosper">Datos personales</string>
+    <string name="datosemp">Datos empleado</string>
+    <string name="sueldo">Sueldo</string>
+    <string name="prima">Prima</string>
+    <string name="coniva">IRPF</string>
+    <string name="calcular">Calcular</string>
+    <string name="total">Total</string>
+    <string name="generar">Generar</string>
+</resources>
